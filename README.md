@@ -1,7 +1,7 @@
-## 💫 About Me
+# 💫 About Me
 I'm an indie dev that codes mostly in Java :)
 
-## 💻 Neat Stuff I Use
+# 💻 Neat Stuff I Use
 <picture>
   <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
 </picture>
@@ -30,7 +30,7 @@ I'm an indie dev that codes mostly in Java :)
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </picture>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <picture>
   <img alt="Stylus" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonHorkles&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </picture>
